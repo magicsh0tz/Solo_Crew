@@ -1,5 +1,5 @@
 # Solo_Crew
-Solo_Crew redefines armored vehicle gameplay in Arma 3, enabling gunners or commanders take control of their tanks and APCs without needing a dedicated driver. Inspired by War Thunder, this mod empowers you to operate vehicles as a one-man crew, enhancing flexibility for solo operators.
+Solo_Crew redefines armored vehicle gameplay in Arma 3, enabling gunners or commanders take control of their tanks and APCs without needing a dedicated driver. Inspired by War Thunder, this mod allows you to operate vehicles as a one-man crew, enhancing flexibility for solo operators.
 
 This mod is must be installed on the server and is optional for clients. Clients that do not have the mod installed will not be able to "Take controls".
 
